@@ -2,10 +2,10 @@ Codility Test
 =============
 Built using Java, Selenium-Gradle, Cucumber.
 
-Two exercises on automationpractice.com
+Two exercises on automationpractice.com website
 
 ### **Scenarios covered**
-1. Order T-shirt and verify in order history
+1. Order a T-shirt and verify in order history
 2. Update personal information (first name) in My Account.
 
 ### **How To Run Tests**
@@ -38,6 +38,9 @@ Create a run configuration. This will allow you to run Scenarios by right clicki
 
 ### **Test Results**
 - Reports and screenshots are located here for local viewing!!! ```C:\Users\yourUserHere\git-projects\projectName\TestResults```
+- Cucumber report attached
+![CodilityExerciseCucumberReport](https://user-images.githubusercontent.com/83782547/117734694-e3127280-b1eb-11eb-86b1-27d709225a99.PNG)
+
 
 ### **Author**
 **_Shanthilal Surana_**
