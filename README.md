@@ -41,6 +41,5 @@ Create a run configuration. This will allow you to run Scenarios by right clicki
 - Cucumber report attached
 ![CodilityExerciseCucumberReport](https://user-images.githubusercontent.com/83782547/117734694-e3127280-b1eb-11eb-86b1-27d709225a99.PNG)
 
-
 ### **Author**
 **_Shanthilal Surana_**
